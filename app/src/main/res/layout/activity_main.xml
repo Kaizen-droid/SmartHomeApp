@@ -8,14 +8,13 @@
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="100dp"
-        android:layout_height="100dp"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
         android:layout_marginTop="16dp"
-        android:background="@drawable/item_lista_borde"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/ic__15_home_control" />
+        app:srcCompat="@drawable/iot" />
 
     <EditText
         android:id="@+id/etUser"
